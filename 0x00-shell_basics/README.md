@@ -1,1 +1,1 @@
-betty in my directory
+no place like home
