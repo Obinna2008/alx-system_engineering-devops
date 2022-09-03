@@ -1,1 +1,1 @@
-welcome home
+betty in my directory
