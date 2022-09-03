@@ -1,1 +1,1 @@
-good bye betty
+to the future
