@@ -1,1 +1,1 @@
-The path to success
+Create a script that counts the number of directories
